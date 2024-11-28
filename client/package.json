@@ -2,7 +2,7 @@
   "name": "taskmaster-client",
   "private": true,
   "version": "0.1.0",
-  "homepage": "https://yourusername.github.io/taskmaster",
+  "homepage": "https://cm777-dev.github.io/taskmaster",
   "type": "module",
   "scripts": {
     "dev": "vite",
